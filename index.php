@@ -43,7 +43,7 @@
   <!-- About Section -->
   <section class="bg-[#e6e1d1] py-16 px-6 md:px-16">
     <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
-      <img src="/images/about.jpg" alt="About the Palace" class="rounded-lg shadow-lg">
+      <img src="/images/gallery1.png" alt="About the Palace" class="rounded-lg shadow-lg">
       <div>
         <h2 class="text-3xl md:text-4xl font-bold mb-4">A Legacy Carved in Stone</h2>
         <p class="text-lg leading-relaxed">This architectural marvel stands as a beacon of cultural heritage and timeless elegance. From domes adorned with mosaic to halls bathed in golden light, every element echoes the spirit of knowledge and leadership.</p>
@@ -58,12 +58,12 @@
   <section class="py-16 px-6 md:px-16">
     <h2 class="text-3xl font-bold text-center mb-10">Architectural Highlights</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 1">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 2">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 3">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 4">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 5">
-      <img src="/images/test.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 6">
+      <img src="/images/hospitality-1.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 1">
+      <img src="/images/unity-1.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 2">
+      <img src="/images/architecture-2.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 3">
+      <img src="/images/hospitality-2.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 4">
+      <img src="/images/explore-3.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 5">
+      <img src="/images/plan-1.png" class="rounded-lg shadow-lg hover:scale-105 transition-transform" alt="Gallery 6">
     </div>
   </section>
 
@@ -105,7 +105,7 @@
 <div class="w-full h-14 bg-repeat-x bg-[url('/images/divider.png')] bg-center"></div>
 
 
-<section class="relative bg-cover bg-center py-24 px-6 md:px-16" style="background-image: url('/images/test.png');">
+<section class="relative bg-cover bg-center py-24 px-6 md:px-16" style="background-image: url('/images/garden.png');">
   <div class="absolute inset-0 bg-black bg-opacity-50"></div>
   <div class="relative max-w-4xl mx-auto text-white text-center">
     <h2 class="text-4xl font-bold mb-4">The Royal Gardens</h2>
@@ -141,9 +141,9 @@
       return {
         active: 0,
         slides: [
-          "/images/test.png",
-          "/images/test.png",
-          "/images/test.png"
+          "/images/architecture-1.png",
+          "/images/architecture-2.png",
+          "/images/architecture-3.png"
         ],
         start() {
           setInterval(() => {

@@ -25,8 +25,8 @@
       <div>
         <h4 class="text-2xl font-semibold text-[#e8d8a8] mb-4 tracking-wide">Contact</h4>
         <p class="text-[#d0d0d0]">Email: consultation@ittechservices.com</p>
-        <p class="text-[#d0d0d0]">Phone: +33 6 72 58 39 14</p>
-        <p class="text-[#d0d0d0]">Address: 15 Rue du Général Leclerc, 78000, Versailles, France</p>
+        <p class="text-[#d0d0d0]">Phone: +971 58 762 3147</p>
+        <p class="text-[#d0d0d0]">Address: Baynunah Street, Al Ras Al Akhdar, Abu Dhabi, UAE</p>
       </div>
     </div>
 
