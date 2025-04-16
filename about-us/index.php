@@ -14,7 +14,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
     <!-- Block 1 -->
     <div class="flex flex-col md:flex-row items-center mb-16">
         <div class="md:w-1/2 mb-8 md:mb-0">
-            <img src="/images/about-us-1.jpg" alt="Company Image" class="w-full h-auto rounded-lg shadow-lg">
+            <img src="/images/gallery1.png" alt="Company Image" class="w-full h-auto rounded-lg shadow-lg">
         </div>
         <div class="md:w-1/2 pl-4">
             <h2 class="text-3xl text-[#5c4332] mb-4">Our History</h2>
@@ -27,7 +27,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
     <!-- Block 2 -->
     <div class="flex flex-col md:flex-row-reverse items-center mb-16">
         <div class="md:w-1/2 mb-8 md:mb-0">
-            <img src="/images/about-us-2.jpg" alt="Company Vision" class="w-full h-auto rounded-lg shadow-lg">
+            <img src="/images/explore-2.png" alt="Company Vision" class="w-full h-auto rounded-lg shadow-lg">
         </div>
         <div class="md:w-1/2 pr-4">
             <h2 class="text-3xl text-[#5c4332] mb-4">Our Vision</h2>
@@ -40,7 +40,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
     <!-- Block 3 -->
     <div class="flex flex-col md:flex-row items-center mb-16">
         <div class="md:w-1/2 mb-8 md:mb-0">
-            <img src="/images/about-us-3.jpg" alt="Company Mission" class="w-full h-auto rounded-lg shadow-lg">
+            <img src="/images/unity-1.png" alt="Company Mission" class="w-full h-auto rounded-lg shadow-lg">
         </div>
         <div class="md:w-1/2 pl-4">
             <h2 class="text-3xl text-[#5c4332] mb-4">Our Mission</h2>
